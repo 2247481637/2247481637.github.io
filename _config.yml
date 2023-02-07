@@ -35,6 +35,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+locale: zh-CN 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -60,11 +61,11 @@ plugins:
 author:
   name   : "Daimon"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "本站是一个分享物联网技术的博客，提供新手入门和各种资料环境."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://opau.cn"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
