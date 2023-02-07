@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IOT
+title: IOT空间
 email: wenshui121@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Daimon"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello Iot"
+  bio    : "欢迎访问IOT星球，这是一个关于物联网的博客，我们提供新手入门资料和环境搭建"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
